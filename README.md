@@ -1,6 +1,6 @@
 # Bassline.io — Song Popularity Prediction
 
-Can audio features predict how popular a song will be on streaming platforms? This project investigates that question — and the answer is more interesting than a simple yes or no.
+Can audio features predict how popular a song will be on streaming platforms? This project investigates that question and the answer is more interesting than a simple yes or no.
 
 ---
 
